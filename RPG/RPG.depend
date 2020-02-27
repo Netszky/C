@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1543313962 source:c:\users\manci\desktop\c\rpg\fonctionrpg.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Rpg.h"
+
+1543220214 source:c:\users\manci\desktop\c\rpg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Rpg.h"
+
+1543312843 c:\users\manci\desktop\c\rpg\rpg.h
+
+1543323407 source:c:\users\manci\desktop\c\rpg\fonctionp2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Rpg.h"
+	"global.h"
+
+1542989646 source:c:\users\manci\desktop\c\rpg\fonctionp3.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1543314400 c:\users\manci\desktop\c\rpg\global.h
+
